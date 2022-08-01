@@ -1,0 +1,15 @@
+C:\Users\Kelvin\Desktop\CSharp\Assignment_HelloNETCore\bin\Debug\net6.0\Assignment_HelloNETCore.exe
+C:\Users\Kelvin\Desktop\CSharp\Assignment_HelloNETCore\bin\Debug\net6.0\Assignment_HelloNETCore.deps.json
+C:\Users\Kelvin\Desktop\CSharp\Assignment_HelloNETCore\bin\Debug\net6.0\Assignment_HelloNETCore.runtimeconfig.json
+C:\Users\Kelvin\Desktop\CSharp\Assignment_HelloNETCore\bin\Debug\net6.0\Assignment_HelloNETCore.dll
+C:\Users\Kelvin\Desktop\CSharp\Assignment_HelloNETCore\bin\Debug\net6.0\Assignment_HelloNETCore.pdb
+C:\Users\Kelvin\Desktop\CSharp\Assignment_HelloNETCore\obj\Debug\net6.0\Assignment_HelloNETCore.csproj.AssemblyReference.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignment_HelloNETCore\obj\Debug\net6.0\Assignment_HelloNETCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Desktop\CSharp\Assignment_HelloNETCore\obj\Debug\net6.0\Assignment_HelloNETCore.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignment_HelloNETCore\obj\Debug\net6.0\Assignment_HelloNETCore.AssemblyInfo.cs
+C:\Users\Kelvin\Desktop\CSharp\Assignment_HelloNETCore\obj\Debug\net6.0\Assignment_HelloNETCore.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignment_HelloNETCore\obj\Debug\net6.0\Assignment_HelloNETCore.dll
+C:\Users\Kelvin\Desktop\CSharp\Assignment_HelloNETCore\obj\Debug\net6.0\refint\Assignment_HelloNETCore.dll
+C:\Users\Kelvin\Desktop\CSharp\Assignment_HelloNETCore\obj\Debug\net6.0\Assignment_HelloNETCore.pdb
+C:\Users\Kelvin\Desktop\CSharp\Assignment_HelloNETCore\obj\Debug\net6.0\Assignment_HelloNETCore.genruntimeconfig.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignment_HelloNETCore\obj\Debug\net6.0\ref\Assignment_HelloNETCore.dll
